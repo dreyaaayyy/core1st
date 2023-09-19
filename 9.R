@@ -11,7 +11,7 @@ print(sum_int)
 n <- 1000
 
 #Calculate the sum using the formula (n *  (n + 1))/2
-sum_int< - (n * (n + 1))/2
+sum_int < - (n * (n + 1))/2
 
 #Print the result
 printf(sum_int)
